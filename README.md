@@ -6,6 +6,7 @@ And C/C++ should be available in VS2022.
 
 ## About
 This project is about Gamma Correction.
+
 To view the result image, open result.png, 
 and if you want an explanation of the code, scroll down below.
 
