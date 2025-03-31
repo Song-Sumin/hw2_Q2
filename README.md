@@ -1,11 +1,11 @@
-#HW2 readme
+# HW2 readme
 ## What you need
 You need Visual Studio 2022 and window 11 OS.
 
 And C/C++ should be available in VS2022.
 
-## about
-This project is about Phong Shading.
+## About
+This project is about Gamma Correction.
 To view the result image, open result.png, 
 and if you want an explanation of the code, scroll down below.
 
